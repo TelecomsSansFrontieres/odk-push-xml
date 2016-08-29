@@ -3,12 +3,6 @@
 # Author: Telecoms Sans Frontieres
 # Mail: it@tsfi.org
 # GIT Repository: https://github.com/TelecomsSansFrontieres
-#
-# Contributors:
-# - guzmud
-# - Stephane C
-# - Sebastien Lannes
-# - Florent Bervas
 #------------------------
 
 usage: odk-push-xml.py [FORM]
